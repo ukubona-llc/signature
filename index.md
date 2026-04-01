@@ -1,14 +1,12 @@
-Perfect—this is the cleanest version: **no button, logo = control**, fully self-contained, footer-safe, and LLM-proof.
+This is the cleanest version: **no button, logo = control**, fully self-contained, footer-safe, and LLM-proof.
 
-Here’s your **complete drop-in artifact**.
-
----
+Here’s is the **complete drop-in artifact**.
 
 # 🔥 Final Version (Logo = Toggle + Floating Footer Widget)
 
 ## 🧩 1. `<head>` (add or merge)
 
-```html id="u7k2dp"
+```html  
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -97,11 +95,10 @@ Here’s your **complete drop-in artifact**.
 </head>
 ```
 
----
 
 ## 🧩 2. Drop this before `</body>`
 
-```html id="b4m9zx"
+```html  
 <div class="brand-widget">
   <div class="logo"></div>
 </div>
@@ -134,7 +131,6 @@ Here’s your **complete drop-in artifact**.
 </script>
 ```
 
----
 
 # 🧠 What You Now Have
 
@@ -157,7 +153,6 @@ Here’s your **complete drop-in artifact**.
 
 * If no preference saved → respects OS dark/light
 
----
 
 # ⚡ Optional Micro-Polish (1-line upgrades)
 
